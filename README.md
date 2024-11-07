@@ -1,5 +1,6 @@
 <p align="center">Pothole_detection_with_fasterRCNN_resnet50</p>
-# Pothole Detection Using Faster R-CNN
+
+**Pothole Detection Using Faster R-CNN**
 
 This project is an automated system for real-time pothole detection using the Faster R-CNN deep learning model. The goal is to enhance road safety and improve infrastructure maintenance by accurately detecting potholes across varied environmental conditions. This repository contains code, models, and resources for training, testing, and deploying a pothole detection model on road images.
 
